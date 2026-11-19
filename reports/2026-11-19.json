@@ -1,0 +1,155 @@
+{
+  "date": "2026-11-19",
+  "headline": "Anthropic启动IPO，估值达1.4万亿美元，AI巨头上市进程加速",
+  "brief": [
+    "Anthropic IPO定价每股83美元，估值约1.4万亿美元，AI行业迎来里程碑。",
+    "2026年APEC工商领导人峰会在深圳举行，全球目光聚焦大湾区。",
+    "美国FAA全国停飞事件持续发酵，交通部长归咎承包商。",
+    "工业金属遭遇黑色星期三，市场恐慌情绪扩散。",
+    "Gemini 4 Neon突袭发布，性价比超越Opus 5.5。"
+  ],
+  "ai": true,
+  "stats": {
+    "ok_sources": 43,
+    "raw_items": 1710,
+    "selected": 23,
+    "by_source": [
+      [
+        "BBC World",
+        2
+      ],
+      [
+        "新华社",
+        2
+      ],
+      [
+        "36氪快讯",
+        2
+      ],
+      [
+        "茶叶",
+        2
+      ],
+      [
+        "抖音热榜",
+        2
+      ],
+      [
+        "中国新闻网",
+        2
+      ],
+      [
+        "第一财经",
+        2
+      ],
+      [
+        "IT之家",
+        2
+      ],
+      [
+        "爱范儿",
+        1
+      ],
+      [
+        "娱乐八卦",
+        1
+      ],
+      [
+        "The Guardian",
+        1
+      ],
+      [
+        "TechCrunch",
+        1
+      ]
+    ],
+    "by_domain": [
+      [
+        "news.google.com",
+        7
+      ],
+      [
+        "bbc.co.uk",
+        2
+      ],
+      [
+        "36kr.com",
+        2
+      ],
+      [
+        "douyin.com",
+        2
+      ],
+      [
+        "chinanews.com.cn",
+        2
+      ],
+      [
+        "ithome.com",
+        2
+      ],
+      [
+        "ifanr.com",
+        1
+      ],
+      [
+        "theguardian.com",
+        1
+      ],
+      [
+        "techcrunch.com",
+        1
+      ],
+      [
+        "s.weibo.com",
+        1
+      ],
+      [
+        "aljazeera.com",
+        1
+      ],
+      [
+        "m.baidu.com",
+        1
+      ]
+    ]
+  },
+  "site_url": "https://hanlinzhaojun-wq.github.io/daily-news-site/",
+  "sections": [
+    {
+      "name": "国际时政",
+      "stars": "★★★★★",
+      "top": "Claude开发商Anthropic启动1.4万亿美元IPO"
+    },
+    {
+      "name": "国内要闻",
+      "stars": "★★★★★",
+      "top": "2026年APEC工商领导人峰会在深圳开幕"
+    },
+    {
+      "name": "财经与市场",
+      "stars": "★★★★★",
+      "top": "Anthropic IPO定价每股83美元"
+    },
+    {
+      "name": "科技与 AI",
+      "stars": "★★★★☆",
+      "top": "Gemini 4 Neon突袭发布，性价比一夜斩杀Opus 5.5"
+    },
+    {
+      "name": "中国消费市场",
+      "stars": "★★☆☆☆",
+      "top": "普洱：科技小院为有机茶产业注入科技动能"
+    },
+    {
+      "name": "社会热点",
+      "stars": "★★★★☆",
+      "top": "APEC会议来宾欢迎宴会大合影"
+    },
+    {
+      "name": "娱乐与轻松",
+      "stars": "★☆☆☆☆",
+      "top": "刘嘉玲荧幕清醒人设崩塌？情史翻车现场曝光"
+    }
+  ]
+}
